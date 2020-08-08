@@ -1,10 +1,3 @@
-
-# Portfolio Website
-
-
-Link Of Website : ayussh007.github.io
-
-
 I Have Created My Portfolio Website Using The Following  :
 
 - Bootstrap4 
